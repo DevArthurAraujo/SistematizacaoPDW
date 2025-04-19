@@ -1,9 +1,9 @@
 # SistematizacaoPDW
 
- link web: https://arthuraraujoads.github.io/SistematizacaoPDW/
+ link web: https://devarthuraraujo.github.io/SistematizacaoPDW/
 
 # Como utilizar esse projeto na sua maquina:
-1. Clone este repositório: git clone https://github.com/arthuraraujoads/SistematizacaoPDW.git
+1. Clone este repositório: git clone https://github.com/devarthuraraujo/SistematizacaoPDW.git
 2. Extraia e abra a pasta em uma IDE de sua preferencia
 3. Instale o node.js aqui: https://nodejs.org
 4. abra seu terminal e digite: npm install -g http-server
